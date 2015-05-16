@@ -1,2 +1,6 @@
-# icarus
-Solar Website and Documentation
+# ICARUS - Solar Website and Documentation
+
+Contains:
+* Website dashboard
+* Documentation
+* Power-logger
