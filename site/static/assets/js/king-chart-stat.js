@@ -58,7 +58,7 @@
 	}
 
 	function getRandomValues() {
-		// data setup
+        console.log("random")
 		var values = new Array(20);
 		
 		for (var i = 0; i < values.length; i++){
